@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 """ The web application listening on 0.0.0.0, port 5000
     Routes:
         /: display “Hello HBNB!”
